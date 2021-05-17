@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-22T18:18:40Z" name="Suite" finished-at="2021-04-22T18:23:28Z" duration-ms="288254">
+    <groups>
+    </groups>
+    <test started-at="2021-04-22T18:18:40Z" name="Test" finished-at="2021-04-22T18:23:28Z" duration-ms="288254">
+      <class name="StarTribune.Test.Class.BasicTest">
+        <test-method is-config="true" signature="initializeTestBaseSetup(java.lang.String, java.lang.String)[pri:0, instance:StarTribune.Test.Class.BasicTest@57ad2aa7]" started-at="2021-04-22T13:18:40Z" name="initializeTestBaseSetup" finished-at="2021-04-22T13:19:11Z" duration-ms="30970" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.startribune.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTestBaseSetup -->
+        <test-method is-config="true" signature="initializeTestBaseSetup(java.lang.String, java.lang.String)[pri:0, instance:StarTribune.Test.Class.BasicTest@57ad2aa7]" started-at="2021-04-22T13:18:40Z" name="initializeTestBaseSetup" finished-at="2021-04-22T13:18:56Z" duration-ms="15789" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.startribune.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTestBaseSetup -->
+        <test-method signature="validateStarTribuneLogo()[pri:0, instance:StarTribune.Test.Class.BasicTest@57ad2aa7]" started-at="2021-04-22T13:18:56Z" name="validateStarTribuneLogo" finished-at="2021-04-22T13:19:26Z" duration-ms="30442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateStarTribuneLogo -->
+        <test-method signature="verifyAutosMenuLink()[pri:0, instance:StarTribune.Test.Class.BasicTest@57ad2aa7]" started-at="2021-04-22T13:19:11Z" name="verifyAutosMenuLink" finished-at="2021-04-22T13:19:50Z" duration-ms="39156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAutosMenuLink -->
+        <test-method is-config="true" signature="initializeTestBaseSetup(java.lang.String, java.lang.String)[pri:0, instance:StarTribune.Test.Class.BasicTest@57ad2aa7]" started-at="2021-04-22T13:19:26Z" name="initializeTestBaseSetup" finished-at="2021-04-22T13:19:42Z" duration-ms="16186" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.startribune.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTestBaseSetup -->
+        <test-method signature="verifyBusinessMenuLink()[pri:0, instance:StarTribune.Test.Class.BasicTest@57ad2aa7]" started-at="2021-04-22T13:19:42Z" name="verifyBusinessMenuLink" finished-at="2021-04-22T13:20:22Z" duration-ms="39581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBusinessMenuLink -->
+        <test-method is-config="true" signature="initializeTestBaseSetup(java.lang.String, java.lang.String)[pri:0, instance:StarTribune.Test.Class.BasicTest@57ad2aa7]" started-at="2021-04-22T13:19:50Z" name="initializeTestBaseSetup" finished-at="2021-04-22T13:20:07Z" duration-ms="17491" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.startribune.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTestBaseSetup -->
+        <test-method signature="verifyClassifiedsMenuLink()[pri:0, instance:StarTribune.Test.Class.BasicTest@57ad2aa7]" started-at="2021-04-22T13:20:07Z" name="verifyClassifiedsMenuLink" finished-at="2021-04-22T13:20:51Z" duration-ms="43571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClassifiedsMenuLink -->
+        <test-method is-config="true" signature="initializeTestBaseSetup(java.lang.String, java.lang.String)[pri:0, instance:StarTribune.Test.Class.BasicTest@57ad2aa7]" started-at="2021-04-22T13:20:22Z" name="initializeTestBaseSetup" finished-at="2021-04-22T13:20:44Z" duration-ms="22147" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.startribune.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTestBaseSetup -->
+        <test-method signature="verifyHousingMenuLink()[pri:0, instance:StarTribune.Test.Class.BasicTest@57ad2aa7]" started-at="2021-04-22T13:20:44Z" name="verifyHousingMenuLink" finished-at="2021-04-22T13:21:23Z" duration-ms="38812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHousingMenuLink -->
+        <test-method is-config="true" signature="initializeTestBaseSetup(java.lang.String, java.lang.String)[pri:0, instance:StarTribune.Test.Class.BasicTest@57ad2aa7]" started-at="2021-04-22T13:20:51Z" name="initializeTestBaseSetup" finished-at="2021-04-22T13:21:06Z" duration-ms="15560" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.startribune.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTestBaseSetup -->
+        <test-method signature="verifyJobsMenuLink()[pri:0, instance:StarTribune.Test.Class.BasicTest@57ad2aa7]" started-at="2021-04-22T13:21:06Z" name="verifyJobsMenuLink" finished-at="2021-04-22T13:21:40Z" duration-ms="33452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyJobsMenuLink -->
+        <test-method is-config="true" signature="initializeTestBaseSetup(java.lang.String, java.lang.String)[pri:0, instance:StarTribune.Test.Class.BasicTest@57ad2aa7]" started-at="2021-04-22T13:21:23Z" name="initializeTestBaseSetup" finished-at="2021-04-22T13:21:36Z" duration-ms="13628" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.startribune.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTestBaseSetup -->
+        <test-method signature="verifyObituariesMenuLink()[pri:0, instance:StarTribune.Test.Class.BasicTest@57ad2aa7]" started-at="2021-04-22T13:21:36Z" name="verifyObituariesMenuLink" finished-at="2021-04-22T13:22:13Z" duration-ms="36441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyObituariesMenuLink -->
+        <test-method is-config="true" signature="initializeTestBaseSetup(java.lang.String, java.lang.String)[pri:0, instance:StarTribune.Test.Class.BasicTest@57ad2aa7]" started-at="2021-04-22T13:21:40Z" name="initializeTestBaseSetup" finished-at="2021-04-22T13:21:56Z" duration-ms="16390" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.startribune.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTestBaseSetup -->
+        <test-method signature="verifyOpinionMenuLink()[pri:0, instance:StarTribune.Test.Class.BasicTest@57ad2aa7]" started-at="2021-04-22T13:21:56Z" name="verifyOpinionMenuLink" finished-at="2021-04-22T13:22:39Z" duration-ms="42554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOpinionMenuLink -->
+        <test-method is-config="true" signature="initializeTestBaseSetup(java.lang.String, java.lang.String)[pri:0, instance:StarTribune.Test.Class.BasicTest@57ad2aa7]" started-at="2021-04-22T13:22:13Z" name="initializeTestBaseSetup" finished-at="2021-04-22T13:22:37Z" duration-ms="24560" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.startribune.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTestBaseSetup -->
+        <test-method signature="verifySportsMenuLink()[pri:0, instance:StarTribune.Test.Class.BasicTest@57ad2aa7]" started-at="2021-04-22T13:22:37Z" name="verifySportsMenuLink" finished-at="2021-04-22T13:23:14Z" duration-ms="37122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySportsMenuLink -->
+        <test-method is-config="true" signature="initializeTestBaseSetup(java.lang.String, java.lang.String)[pri:0, instance:StarTribune.Test.Class.BasicTest@57ad2aa7]" started-at="2021-04-22T13:22:39Z" name="initializeTestBaseSetup" finished-at="2021-04-22T13:22:53Z" duration-ms="13954" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.startribune.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTestBaseSetup -->
+        <test-method signature="verifyVarietyMenuLink()[pri:0, instance:StarTribune.Test.Class.BasicTest@57ad2aa7]" started-at="2021-04-22T13:22:53Z" name="verifyVarietyMenuLink" finished-at="2021-04-22T13:23:28Z" duration-ms="35121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyVarietyMenuLink -->
+      </class> <!-- StarTribune.Test.Class.BasicTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
